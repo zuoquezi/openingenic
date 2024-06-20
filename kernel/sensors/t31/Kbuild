@@ -5,7 +5,7 @@ include $(src)/sensors/$(SOC)/gc4653/Kbuild
 include $(src)/sensors/$(SOC)/imx307/Kbuild
 include $(src)/sensors/$(SOC)/imx327/Kbuild
 include $(src)/sensors/$(SOC)/jxf37/Kbuild
-include $(src)/sensors/$(SOC)/jxh62/Kbuild
+include $(src)/sensors/$(SOC)/jxf23/Kbuild
 include $(src)/sensors/$(SOC)/jxh63/Kbuild
 include $(src)/sensors/$(SOC)/jxq03/Kbuild
 include $(src)/sensors/$(SOC)/jxq03p/Kbuild
